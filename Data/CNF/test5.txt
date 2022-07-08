@@ -1,6 +1,0 @@
-a b
-S A B
-S
-S aAbB
-A aA a
-B bB b
